@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://github.com/Jumponthemoon'></a>.
+subtitle: <a href='https://github.com/Jumponthemoon'> </a>.
 
 profile:
   align: right
