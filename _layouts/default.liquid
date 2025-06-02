@@ -27,7 +27,7 @@
     const preloader = document.getElementById('preloader');
     setTimeout(() => {
       preloader.style.display = 'none';
-    }, 1000); // 3 秒后强制隐藏
+    }, 500); // 3 秒后强制隐藏
   });
 </script>
 
@@ -93,5 +93,23 @@
     {% include scripts/jekyll_tabs.liquid %}
     {% include scripts/back_to_top.liquid %}
     {% include scripts/search.liquid %}
+    <!-- Default Statcounter code for Personal_page
+    https://jumponthemoon.github.io/ -->
+    <script type="text/javascript">
+    var sc_project=13140885; 
+    var sc_invisible=1; 
+    var sc_security="c376c54f"; 
+    </script>
+    <script type="text/javascript"
+    src="https://www.statcounter.com/counter/counter.js"
+    async></script>
+    <noscript><div class="statcounter"><a title="Web Analytics
+    Made Easy - Statcounter" href="https://statcounter.com/"
+    target="_blank"><img class="statcounter"
+    src="https://c.statcounter.com/13140885/0/c376c54f/1/"
+    alt="Web Analytics Made Easy - Statcounter"
+    referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+    <!-- End of Statcounter Code -->
+
   </body>
 </html>
