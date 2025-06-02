@@ -15,13 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
-![scholar](https://github.com/user-attachments/assets/b8faa53d-d3d9-474b-b646-9029da63dace)
-![github-sign](https://github.com/user-attachments/assets/72281401-02f7-49a6-85f6-83a4570f976a)
-![linkedin](https://github.com/user-attachments/assets/808a03de-133c-46c2-964e-eb43d50d9898)
-![apple](https://github.com/user-attachments/assets/eb5293e4-140c-4dbe-9729-681b875a46a5)
-
-<img src="../assets/apple.png" style="height:1em;">
- <a href='https://scholar.google.com/citations?user=EFV2q-4AAAAJ&hl=en'> <u> Google Scholar</u></a> | <img src="https://github.com/user-attachments/assets/72281401-02f7-49a6-85f6-83a4570f976a" style="height:1em; vertical-align:middle;">  <a href='https://github.com/Jumponthemoon'> <u>Github</u> </a> | <img src="https://github.com/user-attachments/assets/808a03de-133c-46c2-964e-eb43d50d9898" style="height:1em; vertical-align:middle;"> <a href='https://www.linkedin.com/in/chenghao-qian-021263240/'> <u>Linkedin</u> </a> | <img src="https://github.com/user-attachments/assets/eb5293e4-140c-4dbe-9729-681b875a46a5" style="height:1em; vertical-align:middle;"> <a href='https://www.photocrowd.com/photographer-community/293596/?page=images'> <u>Gallery</u> </a> 
+<img src="../assets/img/scholar.png" style="height:1em;"> <a href='https://scholar.google.com/citations?user=EFV2q-4AAAAJ&hl=en'> <u> Google Scholar</u></a> | <img src="../assets/img/github-sign.png" style="height:1em;">  <a href='https://github.com/Jumponthemoon'> <u>Github</u> </a> | <img src="../assets/img/linkedin.png" style="height:1em;"> <a href='https://www.linkedin.com/in/chenghao-qian-021263240/'> <u>Linkedin</u> </a> | <img src="../assets/img/apple.png" style="height:1em;"> <a href='https://www.photocrowd.com/photographer-community/293596/?page=images'> <u>Gallery</u> </a> 
 
 
 I am a Ph.D. student at the University of Leeds under the supervision of Prof.Gustav Markkula and Dr. Wenjing Li. Previously, I graduated from the University of Sydney and spent 4 years in the *Emboddied AI* (robotics and autonomous driving) industry. My overarching goal is to enable robots to operate reliably <u>in any environment, at any time</u> — or even one day, <u>jump on the moon</u>.
