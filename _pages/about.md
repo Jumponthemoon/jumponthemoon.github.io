@@ -21,5 +21,7 @@ My current research focusing on simulation and perception for autonomous driving
 - **Simulation**: Developing high-fidelity simulations with Generative AI that replicate long-tailed, safety-critical scenarios to support foundation model training and validation using synthetic or hybrid data.
 
 - **Perception**: Designing perception algorithms that integrate physical constraints and spatial context for reliable scene understanding across virtual and real-world domains.
+  
+[Google Scholar](https://scholar.google.com/citations?user=EFV2q-4AAAAJ&hl=en) | [Github](https://github.com/Jumponthemoon) | [LinkedIn](https://www.linkedin.com/in/chenghao-qian-021263240/)
 
 Beyond the lab, I enjoy photography and skateboarding—both teach me to see the world from different perspectives, whether through a camera lens or while carving a line through the city.
