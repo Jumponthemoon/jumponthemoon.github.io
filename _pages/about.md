@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About
+
 profile:
   align: right
   image: prof_pic.jpg
