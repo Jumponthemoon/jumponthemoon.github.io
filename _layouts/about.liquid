@@ -14,6 +14,15 @@ layout: default
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EPXPFF5RE7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-EPXPFF5RE7');
+</script>
+
+
   <article>
     {% if page.profile %}
       <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
