@@ -21,7 +21,15 @@
     {% include head.liquid %}
     
   </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EPXPFF5RE7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-EPXPFF5RE7');
+</script>
 <script>
   window.addEventListener('load', () => {
     const preloader = document.getElementById('preloader');
@@ -31,13 +39,6 @@
   });
 </script>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-EPXPFF5RE7"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-EPXPFF5RE7');
-</script>
 
 
 
