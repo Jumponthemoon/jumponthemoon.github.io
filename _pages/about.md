@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://github.com/Jumponthemoon'> </a>.
+subtitle: <a href='https://scholar.google.com/citations?user=EFV2q-4AAAAJ&hl=en'> Google Scholar</a> | <a href='https://github.com/Jumponthemoon'> Github </a> | <a href='https://www.linkedin.com/in/chenghao-qian-021263240/'> Linkedin </a> 
 
 profile:
   align: right
