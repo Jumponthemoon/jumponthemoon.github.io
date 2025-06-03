@@ -18,12 +18,12 @@ social: true # includes social icons at the bottom of the page
 <img src="../assets/img/scholar.png" style="height:1em;"> <a href='https://scholar.google.com/citations?user=EFV2q-4AAAAJ&hl=en'> <u> Google Scholar</u></a> | <img src="../assets/img/github-sign.png" style="height:1em;">  <a href='https://github.com/Jumponthemoon'> <u>Github</u> </a> | <img src="../assets/img/linkedin.png" style="height:1em;"> <a href='https://www.linkedin.com/in/chenghao-qian-021263240/'> <u>Linkedin</u> </a> | <img src="../assets/img/apple.png" style="height:1em;"> <a href='https://www.photocrowd.com/photographer-community/293596/?page=images'> <u>Gallery</u> </a> 
 
 
-I am a Ph.D. student at the University of Leeds under the supervision of Prof.Gustav Markkula and Dr. Wenjing Li. Previously, I graduated from the University of Sydney and spent several years in the *Emboddied AI* industry (robotics and autonomous driving). My overarching goal is to enable robots to operate reliably <u>in any environment, at any time</u> — or even one day, <u>jump on the moon</u>.
+I am currently pursuing a Ph.D. at <a href='https://uolds.leeds.ac.uk/'> <u>Virtuocity</u> </a>, University of Leeds, under the supervision of Prof. Gustav Markkula and Dr. Wenjing Li. Previously, I graduated from the University of Sydney and spent several years in the Emboddied AI industry (robotics and autonomous driving). My overarching goal is to enable robots to operate reliably ***in any environment, at any time*** — or even one day, ***jump on the moon***.
 
 My current research focusing on simulation and perception for autonomous driving under adverse conditions including:
-- **Simulation**: Developing high-fidelity simulations with Generative AI that <u> replicate long-tailed, safety-critical scenarios </u> to support foundation model training and validation using synthetic or hybrid data.
+- **Simulation**: Developing high-fidelity simulations with Generative AI that ***replicate long-tailed, safety-critical scenarios*** to support foundation model training and validation using synthetic or hybrid data.
 
-- **Perception**: Designing perception algorithms that integrate physical constraints and spatial context for reliable scene understanding across challenging real-world scenarios.
+- **Perception**: Designing perception algorithms that integrate ***physical constraints*** and ***spatial context*** for reliable scene understanding across challenging real-world scenarios.
 
 
 Beyond the lab, I enjoy photography and skateboarding—each bends my view from a different perspective on the world: one through a lens, the other on wheels.
