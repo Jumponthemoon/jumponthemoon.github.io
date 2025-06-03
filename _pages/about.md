@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 I am currently pursuing a Ph.D. at <a href='https://uolds.leeds.ac.uk/'> <u>Virtuocity</u></a>, University of Leeds, under the supervision of Prof. Gustav Markkula and Dr. Wenjing Li. Previously, I graduated from the University of Sydney and spent several years in the robotics and autonomous driving industry. My overarching goal is to enable robots to operate reliably *in any environment, at any time* — or even one day, *jump on the moon*.
 
-My current research focusing on simulation and perception for ***autonomous driving under adverse conditions including***:
+My current research focusing on simulation and perception for ***autonomous driving under adverse conditions*** including:
 - **Simulation**: Developing high-fidelity simulations with that ***replicate long-tailed, safety-critical scenarios*** to support foundation model training and validation using synthetic or hybrid data.
 
 - **Perception**: Designing perception algorithms that integrate ***physical constraints*** and ***spatial context*** for reliable scene understanding across challenging real-world scenarios.
