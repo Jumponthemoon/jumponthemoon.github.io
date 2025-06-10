@@ -26,4 +26,3 @@ My current research focusing on simulation and perception for ***autonomous driv
 - **Perception**: Designing perception algorithms that integrate ***physical constraints*** and ***spatial context*** for reliable scene understanding across challenging real-world scenarios.
 
 
-Beyond the lab, I enjoy photography and skateboarding—each bends my view from a different perspective on the world: one through a lens, the other on wheels.
