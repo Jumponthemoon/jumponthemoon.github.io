@@ -6,7 +6,7 @@ permalink: /
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
 
 show_posts: false
@@ -24,6 +24,6 @@ My current research focusing on simulation and perception for ***autonomous driv
 - **Perception**: Designing perception algorithms that integrate ***physical constraints*** and ***spatial context*** for reliable scene understanding across challenging real-world scenarios.
 - **Simulation**: Developing high-fidelity simulations with that ***replicate long-tailed, safety-critical scenarios*** to support foundation model training and validation using synthetic or hybrid data.
 
-
+If you have any questions about my research or are interested in potential collaborations, feel free to reach out — always happy to connect and chat! 👋
 
 
