@@ -33,7 +33,7 @@ Hi !👋 I am currently pursuing a Ph.D. at <a href='https://uolds.leeds.ac.uk/'
 My current research focusing on **Autonomous Driving under Adverse Conditions**:
 - **Robust Perception**: Designing perception algorithms that for <u>reliable scene understanding<u> across <u>challenging real-world scenarios</u> including snowy, rainy, foggy and nighttime.
 - **Photorealistic Simulation**: Developing <u>high-fidelity simulations</u> that <u>replicate challenging scenarios</u> to support foundation model validation.
-- **Generative Modelling**: Using generative frameworks to <u>synthesize long-tailed, safety-critical driving scenes</u> and <u>mitigate weather-induced visual effects</u> to improve model performance.
+- **Generative Modelling**: Using generative frameworks to <u>synthesize long-tailed, safety-critical driving scenes</u> and <u>mitigate weather-induced visual effects</u> for dataset enrichment.
 
 **Always open to collaboration!** — if you have any questions about my research or would like to explore potential opportunities, feel free to reach out. I’d be glad to connect and chat! 
 
