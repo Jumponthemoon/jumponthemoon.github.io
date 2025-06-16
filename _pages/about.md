@@ -31,7 +31,7 @@ social: true # includes social icons at the bottom of the page
 Hi!👋 I am currently pursuing a Ph.D. at <a href='https://uolds.leeds.ac.uk/'> <u>Virtuocity</u></a>, University of Leeds. I spent several years working on robotics and autonomous driving at <a href='https://www.xpeng.com/'> <u>XPENG</u></a> and <a href='https://www.ubtrobot.com/en/'> <u>UBTech</u></a>. My overarching goal is to enable robots to operate reliably *across any location, under any weather, at any time*— or even one day, *jump on the moon*.🚀
 
 My current research focusing on **Autonomous Driving under Adverse Conditions**:
-- **Robust Perception**: Designing perception algorithms that for <u>reliable scene understanding<u> across <u>challenging real-world scenarios</u> including snowy, rainy, foggy and nighttime.
+- **Robust Perception**: Designing perception algorithms that for <u>reliable scene understanding</u> across <u>challenging real-world scenarios</u> including snowy, rainy, foggy and nighttime.
 - **Photorealistic Simulation**: Developing <u>high-fidelity simulations</u> that <u>replicate challenging scenarios</u> to support foundation model validation.
 - **Generative Modelling**: Using generative frameworks to <u>synthesize long-tailed, safety-critical driving scenes</u> and <u>mitigate weather-induced visual effects</u> for dataset enrichment.
 
