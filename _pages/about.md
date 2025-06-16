@@ -15,6 +15,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
+
+<style>
+.profile img {
+  width: 120px !important;
+  height: 120px !important;
+  object-fit: cover;
+}
+</style>
+
+
 <img src="../assets/img/scholar.png" style="height:1em;"> <a href='https://scholar.google.com/citations?user=EFV2q-4AAAAJ&hl=en'> <u> Google Scholar</u></a> | <img src="../assets/img/github-sign.png" style="height:1em;">  <a href='https://github.com/Jumponthemoon'> <u>Github</u> </a> | <img src="../assets/img/linkedin.png" style="height:1em;"> <a href='https://www.linkedin.com/in/chenghao-qian-021263240/'> <u>Linkedin</u> </a> | <img src="../assets/img/apple.png" style="height:1em;"> <a href='https://www.photocrowd.com/photographer-community/293596/?page=images'> <u>Gallery</u> </a> 
 
 
