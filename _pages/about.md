@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>@jumponthemoon</a>.
 
 profile:
   align: right
