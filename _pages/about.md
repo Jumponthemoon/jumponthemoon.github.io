@@ -35,6 +35,6 @@ My current research focusing on **Autonomous Driving under Adverse Conditions**:
 - **Photorealistic Simulation**: Developing *high-fidelity simulations* that *replicate challenging scenarios* to support foundation model validation.
 - **Generative Modelling**: Using generative frameworks to *synthesize long-tailed, safety-critical driving scenes* and *mitigate weather-induced visual effects* for dataset enrichment and improve visual clarity.
 
-**Always open to collaboration!** — if you have any questions about my research or would like to explore potential opportunities, feel free to reach out. I’d be glad to connect and chat! 
+**Always open to collaboration** — if you have any questions about my research or would like to explore potential opportunities, feel free to reach out. I’d be glad to connect and chat! 
 
 
