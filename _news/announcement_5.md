@@ -5,8 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<<<<<<< HEAD
 Invited by *Auto-Driving Heart* to give a livestream talk.
-=======
-Invited by ***Auto-Driving Heart*** to give a livestream talk.
->>>>>>> ab1b737364269ecfbd73c75485a6cb274b278018
