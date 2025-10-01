@@ -154,13 +154,9 @@ collections:
     permalink: /:collection/:title/
 
 announcements:
-<<<<<<< HEAD
   enabled: true
-=======
-  enabled: false
->>>>>>> ab1b737364269ecfbd73c75485a6cb274b278018
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: true  # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5  # leave blank to include all the news in the `_news` folderto include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
