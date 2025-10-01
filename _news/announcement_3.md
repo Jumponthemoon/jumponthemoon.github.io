@@ -6,5 +6,5 @@ related_posts: false
 ---
 
 🌟 <a href="https://github.com/Jumponthemoon/AllWeatherNet">AllWeatherNet</a>
- received the ***Overall Best Student Paper Award*** at **ICPR** 2024.
+ received the ***Overall Best Student Paper Award（1 out of 2106)*** at **ICPR** 2024.
 
