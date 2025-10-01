@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Attended **the International Computer Vision Summer School (ICVSS)**.Inspiring and enjoyable experience!
+Attended **the International Computer Vision Summer School (ICVSS)**. An Inspiring and enjoyable experience!
