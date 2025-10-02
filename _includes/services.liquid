@@ -1,0 +1,10 @@
+{%- if site.services -%}
+  <div class="services-list">
+    {%- for course in site.services -%}
+      <div class="course-item">
+        <h3>{{ course.title }}</h3>
+        {{ course.content }}
+      </div>
+    {%- endfor -%}
+  </div>
+{%- endif -%}

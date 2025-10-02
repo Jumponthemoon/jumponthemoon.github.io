@@ -152,12 +152,15 @@ collections:
   projects:
     output: false
     permalink: /:collection/:title/
-
+  services:  # 添加这个新的集合
+    output: true
+    permalink: /:collection/:title/
 announcements:
   enabled: true
   scrollable: true  # adds a vertical scroll bar if there are more than 3 news items
   limit: 7  # leave blank to include all the news in the `_news` folderto include all the news in the `_news` folder
 
+show_services: true  # 添加这个配置来控制teaching section的显示
 latest_posts:
   enabled: false
   scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items

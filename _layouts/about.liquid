@@ -61,17 +61,10 @@ layout: default
     </div>
 
 
-    <!-- Social -->
-    {% if page.social %}
-      <div class="social">
-        <div class="contact-icons">{% include social.liquid %}</div>
 
-        <div class="contact-note">{{ site.contact_note }}</div>
-      </div>
-    {% endif %}
 
-    {% if site.newsletter.enabled and site.footer_fixed %}
-      {% include scripts/newsletter.liquid center=true %}
-    {% endif %}
-  </article>
-</div>
+{%- if site.show_services -%}
+  <div class="services">
+    {%- include services.liquid -%}
+  </div>
+{%- endif -%}
