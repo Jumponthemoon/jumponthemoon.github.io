@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Invited by the *Institute for Safe Autonomy*, *University of York*, to give a talk on <u>"Weather Challenges in Autonomous Driving Perception Systems."</u>
+Invited by the **Institute for Safe Autonomy**, **University of York**, to give a talk on <u>"Weather Challenges in Autonomous Driving Perception Systems."</u>
 
 
