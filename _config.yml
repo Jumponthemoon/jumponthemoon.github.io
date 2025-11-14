@@ -52,7 +52,8 @@ footer_fixed: true
 search_enabled: true
 socials_in_search: true
 bib_search: true
-
+github_stats:
+  enabled: true
 # Dimensions
 max_width: 930px
 
