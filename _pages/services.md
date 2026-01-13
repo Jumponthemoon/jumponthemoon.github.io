@@ -9,8 +9,8 @@
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - IEEE International Conference on Robotics and Automation (**ICRA**)  
 - International Conference on Pattern Recognition (**ICPR**)  
-- Workshop <u><em>Embodied World Models for Decision Making<em></u> (**NeurIPS Workshop**)
-- Workshop on <u><em>Generating Digital Twins from Images and Videos<em></u> (**ICCV Workshop**)
+- <u><em>Embodied World Models for Decision Making<em></u> (**NeurIPS Workshop**)
+- <u><em>Generating Digital Twins from Images and Videos<em></u> (**ICCV Workshop**)
 
 *Journal*:
 - International Journal of Computer Vision (**IJCV**)
