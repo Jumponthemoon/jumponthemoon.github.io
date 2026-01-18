@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic Services
+title: Services
 ---
 
 **Reviewer**
