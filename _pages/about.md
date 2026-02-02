@@ -33,8 +33,8 @@ My current research aims to tackle the core challenges of ***autonomous driving 
 - **Generative Modelling**: Using generative frameworks to *synthesize long-tailed, safety-critical driving scenes* and *mitigate visual degradation* for dataset enrichment and visual clarity.
 - **Scene Simulation**: Developing *high-fidelity simulations* that *replicate challenging scenarios* to support foundation model training and validation.
 
-If you have any questions about my research or would like to collaborate, please feel free to email me at :e-mail: tscq@leeds.ac.uk. I’d be glad to connect and chat! 
+If you have any questions about my research or would like to collaborate, please feel free to email me at :e-mail: tscq@leeds.ac.uk. I’d be glad to connect and chat!
+Beyond research, I’m into photography, basketball, and skateboarding, each offering a different lens on how I see the world.
 
-I’m into photography, basketball, and skateboarding; each gives me a different lens on observing the world. I’d love to chat about any of them too.
 
 
