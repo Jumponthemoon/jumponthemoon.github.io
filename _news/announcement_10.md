@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm co-organizing **CVPR 2026 LoViF Workshop **! Please join us！
+I'm co-organizing **CVPR 2026 LoViF Workshop** ! Please join us！
