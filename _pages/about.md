@@ -29,7 +29,7 @@ social: true # includes social icons at the bottom of the page
 
 Hi!👋 I am currently pursuing a Ph.D. at <a href='https://uolds.leeds.ac.uk/'> <u>Virtuocity</u></a>. Prior to this, I completed my master's degree at the University of Sydney and had years' experience working in the fields of robotics and autonomous driving at <a href='https://paralleldomain.com/new-mcity-digital-twin-by-parallel-domain-brings-physical-ai-research-closer-to-reality'> <u>Parallel Domain</u></a>, <a href='https://www.xpeng.com/'> <u>XPENG</u></a> and <a href='https://www.ubtrobot.com/en/'> <u>UBTech</u></a>. My overarching goal is to enable robots to operate reliably *across any location, under any weather, at any time*— or even one day, *jump on the moon*.🚀
 
-My current research aims to tackle the core challenges of ***autonomous driving in the wild***. To address this, I focus on:
+My current research aims to tackle the core challenges of ***autonomous driving in adverse weather***. To address this, I focus on:
 - **Generative Modelling**: Using generative frameworks to *synthesize long-tailed, safety-critical driving scenes* and *mitigate visual degradation* for dataset enrichment and visual clarity.
 - **Scene Simulation**: Developing *high-fidelity simulations* that *replicate challenging scenarios* to support foundation model training and validation.
 
