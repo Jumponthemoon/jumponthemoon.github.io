@@ -4,6 +4,7 @@
 
 *Conference/Workshop*:
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**)
+- European Conference on Computer Vision (**ECCV**)
 - ACM SIGGRAPH Asia (**SIGGRAPH Asia**)
 - AAAI Conference on Artificial Intelligence (**AAAI**)
 - IEEE International Conference on Robotics and Automation (**ICRA**)  
