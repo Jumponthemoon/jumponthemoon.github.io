@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave a talk on <u>"Perception in Adverse Weather"</u> at the **University of Cambridge**. 
+I gave a talk at the **University of Cambridge**. 
