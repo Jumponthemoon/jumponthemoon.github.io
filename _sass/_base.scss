@@ -4,6 +4,32 @@
 
 // Typography
 
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.005em;
+}
+
+p, em, div, li, span, a, td, th,
+.hero .aff, .hero .aff-label, .hero .interests ul,
+.exp-list, .news, .news table,
+.publications, .publications ol li,
+.publications .author, .publications .periodical,
+.publications .links, .publications .abbr {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.post-title, .post-title a,
+.hero .name,
+.publications .title,
+.section-title {
+  font-family: "Newsreader", "Cormorant Garamond", Georgia, serif !important;
+  font-weight: 600;
+  letter-spacing: 0.005em;
+}
+
 p,
 h1,
 h2,
@@ -756,7 +782,7 @@ footer.sticky-bottom {
       }
 
       .title {
-        font-weight: bolder;
+        font-weight: 500;
       }
 
       .author {

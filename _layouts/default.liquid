@@ -45,6 +45,9 @@
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+    <!-- Top banner -->
+    <div class="page-banner" style="height:2px; width:100%; background: var(--global-theme-color);"></div>
+
     <!-- Header -->
     {% include header.liquid %}
 
