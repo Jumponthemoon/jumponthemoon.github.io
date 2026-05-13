@@ -35,7 +35,15 @@ social: false
 .hero .profile-card .info .name {
   font-size: 1.7rem; font-weight: 700; margin: 0 0 0.25rem 0; line-height: 1.1;
 }
-.hero .profile-card .info .role { color: #666; margin-bottom: 0.6rem; font-size: 0.9rem; }
+.hero .profile-card .info .role {
+  color: var(--global-text-color);
+  margin-bottom: 0.6rem;
+  font-size: 0.85rem;
+  font-family: "JetBrains Mono", "Fira Code", "Menlo", "Consolas", monospace;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+.hero .profile-card .info .role .prompt { color: #17a05f; font-weight: 700; }
 .news table td, .news table th {
   padding-top: 1px !important;
   padding-bottom: 1px !important;
@@ -51,6 +59,9 @@ social: false
   font-weight: inherit;
 }
 .publications h2.bibliography { display: none; }
+.publications ol.bibliography li .abbr abbr {
+  background-color: #0e2540 !important;
+}
 .research-callout {
   border-top: 1px solid #d8d8d8;
   border-bottom: 1px solid #d8d8d8;
@@ -95,10 +106,14 @@ html[data-theme="dark"] .publications ol.bibliography li .author em {
 
 .hero .role .caret {
   display: inline-block;
-  animation: caretBlink 1s steps(1) infinite;
+  animation: caretBlink 1.1s cubic-bezier(0.4, 0, 0.2, 1) infinite;
   margin-left: 1px;
 }
-@keyframes caretBlink { 50% { opacity: 0; } }
+@keyframes caretBlink {
+  0%, 45% { opacity: 1; }
+  50%, 95% { opacity: 0; }
+  100% { opacity: 1; }
+}
 .aff-label { font-weight: 600; margin-top: 0.5rem; font-size: 0.9rem; line-height: 1.4; color: #888; }
 html[data-theme="dark"] .aff-label { color: #bbb; }
 .aff {
@@ -231,7 +246,7 @@ html[data-theme="dark"] .aff-role { color: #bbb; }
     </div>
     <div class="info">
       <div class="name">Chenghao Qian</div>
-      <div class="role">🌖 <a href="https://github.com/Jumponthemoon" style="color: inherit;"><span id="type-text"></span></a><span class="caret">|</span></div>
+      <div class="role"><i class="fab fa-github" style="color: var(--global-text-color); font-size: 1.05em;"></i> <a href="https://github.com/Jumponthemoon" style="color: inherit;"><span id="type-text"></span></a><span class="caret">_</span></div>
 
       <div class="aff-label">Ph.D. Student</div>
       <div class="aff">
@@ -263,7 +278,7 @@ html[data-theme="dark"] .aff-role { color: #bbb; }
 </div>
 
 <div class="research-callout">
-My research aims to bridge <strong style="color: #1772d0;">generative simulation</strong> and <strong style="color: #1772d0;">embodied agents</strong> to<br>build systems that <strong style="color: #1772d0;">👁️ perceive</strong>, <strong style="color: #1772d0;">🧠 reason</strong>, and <strong style="color: #1772d0;">🤖 act</strong> safely in the real world.
+My works aim to bridge <strong style="color: #1772d0;">generative models</strong> and <strong style="color: #1772d0;">embodied agents</strong> to<br>build systems that <strong style="color: #1772d0;">👁️ perceive</strong>, <strong style="color: #1772d0;">🧠 reason</strong>, and <strong style="color: #1772d0;">🤖 act</strong> safely in the real world.
 </div>
 
 <div class="below-hero">
@@ -307,20 +322,21 @@ My research aims to bridge <strong style="color: #1772d0;">generative simulation
   if (!el) return;
   const text = 'jumponthemoon';
   let i = 0, deleting = false;
+  const rand = (a, b) => a + Math.random() * (b - a);
   function tick() {
     el.textContent = text.slice(0, i);
+    let delay;
     if (!deleting) {
-      if (i < text.length) { i++; setTimeout(tick, 80); }
-      else { deleting = true; setTimeout(tick, 1800); }
+      if (i < text.length) { i++; delay = rand(60, 130); }
+      else { deleting = true; delay = 2200; }
     } else {
-      if (i > 0) { i--; setTimeout(tick, 40); }
-      else { deleting = false; setTimeout(tick, 500); }
+      if (i > 0) { i--; delay = rand(25, 55); }
+      else { deleting = false; delay = 600; }
     }
+    setTimeout(tick, delay);
   }
   tick();
 })();
 </script>
 
-I am <strong style="color: #1772d0;">open to research collaborations</strong>. Please feel free to contact me at [tscq@leeds.ac.uk](mailto:tscq@leeds.ac.uk).
-
-Beyond research, I’m into photography, basketball, and skateboarding.
+I am <strong style="color: #1772d0;">open to research collaborations</strong>. Please feel free to contact me at <a href="mailto:tscq@leeds.ac.uk" style="color: #1772d0;">tscq@leeds.ac.uk</a>.
