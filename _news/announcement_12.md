@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper **Weather Video Synthesis** got accepted by **ECCV 2026**! Check the [project page](https://jumponthemoon.github.io/w-crafter/).
+One paper got accepted by **ECCV 2026**! Check the [project page](https://jumponthemoon.github.io/w-crafter/).
