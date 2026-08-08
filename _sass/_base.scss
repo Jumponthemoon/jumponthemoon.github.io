@@ -830,6 +830,20 @@ footer.sticky-bottom {
         a.award.btn {
           border-color: var(--global-highlight-color);
         }
+        // GitHub star count appended to the Code button.
+        .repo-stars {
+          margin-left: 0.45rem;
+          padding-left: 0.45rem;
+          border-left: 1px solid var(--global-divider-color);
+          font-variant-numeric: tabular-nums;
+          white-space: nowrap;
+
+          i {
+            margin-right: 0.2rem;
+            font-size: 0.8em;
+            color: var(--global-highlight-color);
+          }
+        }
       }
 
       .badges {

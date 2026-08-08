@@ -245,7 +245,27 @@
         <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
       {% endif %}
       {% if entry.code %}
-        <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+        {% comment %}
+          Star counts come from _data/github_stars.yml, regenerated on every
+          deploy by bin/fetch_github_stars.py. A repo missing from that file
+          simply renders the plain Code button.
+        {% endcomment %}
+        {% assign repo_slug = "" %}
+        {% if entry.code contains "github.com/" %}
+          {% assign repo_slug = entry.code | split: "github.com/" | last | split: "?" | first | split: "#" | first | remove: ".git" | split: "/" %}
+          {% if repo_slug.size >= 2 %}
+            {% assign repo_slug = repo_slug[0] | append: "/" | append: repo_slug[1] %}
+          {% else %}
+            {% assign repo_slug = "" %}
+          {% endif %}
+        {% endif %}
+        {% assign repo_stars = nil %}
+        {% if repo_slug != "" and site.data.github_stars %}
+          {% assign repo_stars = site.data.github_stars[repo_slug] %}
+        {% endif %}
+        <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">
+          Code{% if repo_stars %}<span class="repo-stars" title="{{ repo_stars }} stars on GitHub"><i class="fa-solid fa-star"></i>{{ repo_stars }}</span>{% endif %}
+        </a>
       {% endif %}
       {% if entry.poster %}
         {% if entry.poster contains '://' %}

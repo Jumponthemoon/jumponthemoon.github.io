@@ -55,6 +55,9 @@ on:
       - "!FAQ.md"
       - "!INSTALL.md"
       - "!README.md"
+  schedule:
+    # Refresh the GitHub star counts shown on the Code buttons once a day.
+    - cron: "17 4 * * *"
   workflow_dispatch:
 
 permissions:
@@ -84,6 +87,13 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Refresh GitHub star counts ⭐
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # Never block a deploy on the GitHub API; a stale/missing count just
+        # falls back to the committed _data/github_stars.yml.
+        continue-on-error: true
+        run: python3 bin/fetch_github_stars.py
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade nbconvert
