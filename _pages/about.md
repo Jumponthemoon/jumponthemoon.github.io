@@ -121,6 +121,17 @@ html[data-theme="dark"] .aff-label { color: #bbb; }
 }
 .aff img { height: 18px; width: auto; }
 .experience .aff { margin: 0.3rem 0; }
+/* One shared grid for all Experience rows, so the separator and the role line
+   up in columns instead of trailing company names of different lengths. */
+.experience .aff-list {
+  display: grid;
+  grid-template-columns: max-content max-content max-content max-content;
+  align-items: center;
+  column-gap: 0.4rem;
+  row-gap: 0.3rem;
+}
+.experience .aff-list .aff { display: contents; }
+.experience .aff-list .role-sep { margin: 0; }
 .aff-role { color: #888; font-weight: 400; }
 html[data-theme="dark"] .aff-role { color: #bbb; }
 .role-sep { color: #aaa; margin: 0 0.3rem; }
@@ -277,30 +288,37 @@ html[data-theme="dark"] .aff-role { color: #bbb; }
   </div>
 </div>
 
+{% comment %}
+  Research callout temporarily hidden -- delete this comment wrapper to bring it back.
+{% endcomment %}
+{% comment %}
 <div class="research-callout">
 My works aim to bridge <strong style="color: #1772d0;">generative models</strong> and <strong style="color: #1772d0;">embodied agents</strong> to<br>build systems that <strong style="color: #1772d0;">👁️ perceive</strong>, <strong style="color: #1772d0;">🧠 reason</strong>, and <strong style="color: #1772d0;">🤖 act</strong> safely in the real world.
 </div>
+{% endcomment %}
 
 <div class="below-hero">
   <div class="experience">
     <h3>Experience</h3>
-    <div class="aff">
-      <img src="/assets/img/paralleldomain_logo.png">
-      <a href="https://paralleldomain.com/">Parallel Domain</a>
-      <span class="role-sep">·</span>
-      <span class="aff-role">Research Associate</span>
-    </div>
-    <div class="aff">
-      <img src="/assets/img/xpeng_logo.png">
-      <a href="https://www.xpeng.com/">XPENG Robotics</a>
-      <span class="role-sep">·</span>
-      <span class="aff-role">Sr. Algorithm Engineer</span>
-    </div>
-    <div class="aff">
-      <img src="/assets/img/ubtech_logo.png">
-      <a href="https://www.ubtrobot.com/en/">UBTech Robotics</a>
-      <span class="role-sep">·</span>
-      <span class="aff-role">Algorithm Engineer</span>
+    <div class="aff-list">
+      <div class="aff">
+        <img src="/assets/img/paralleldomain_logo.png">
+        <a href="https://paralleldomain.com/">Parallel Domain</a>
+        <span class="role-sep">·</span>
+        <span class="aff-role">Research Intern</span>
+      </div>
+      <div class="aff">
+        <img src="/assets/img/xpeng_logo.png">
+        <a href="https://www.xpeng.com/">XPENG Robotics</a>
+        <span class="role-sep">·</span>
+        <span class="aff-role">Sr. Algorithm Engineer</span>
+      </div>
+      <div class="aff">
+        <img src="/assets/img/ubtech_logo.png">
+        <a href="https://www.ubtrobot.com/en/">UBTech Robotics</a>
+        <span class="role-sep">·</span>
+        <span class="aff-role">Algorithm Engineer</span>
+      </div>
     </div>
   </div>
 
