@@ -22,7 +22,11 @@ title: Services
 
 **Organizer/Co-organizer**
 
+The RoboWorld Challenge (**@NeurIPS 2026**)
+
 1st Workshop on Low-Level Vision Frontiers (**@CVPR 2026**)
+
+1st Workshop on Visual Intelligence for Built Environment Digital Twins (**@ECCV 2026**)
 
 **Mentorship**
 
