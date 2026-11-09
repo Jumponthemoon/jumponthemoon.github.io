@@ -28,14 +28,6 @@ The RoboWorld Challenge (**@NeurIPS 2026**)
 
 1st Workshop on Visual Intelligence for Built Environment Digital Twins (**@ECCV 2026**)
 
-**Mentorship**
-
-_Qiangbo Zhang_, **Driving Scene Simulation**, University of Science and Technology of China
-
-_Yanpu Wang_, **3D Scene Understanding**, Hefei University of Technology
-
-_Lele Hu_, **Domain Generalization**, Hefei University of Technology
-
 **Tutor**
 
 _COMP3631_ **Intelligent Systems and Robotics**, University of Leeds
