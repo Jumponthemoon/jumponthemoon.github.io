@@ -357,4 +357,4 @@ My works aim to bridge <strong style="color: #1772d0;">generative models</strong
 })();
 </script>
 
-I am <strong style="color: #1772d0;">open to research collaborations</strong>. Please feel free to contact me at <a href="mailto:tscq@leeds.ac.uk" style="color: #1772d0;">tscq@leeds.ac.uk</a>.
+I am <strong style="color: #1772d0;">open to research collaborations</strong>. Please feel free to contact me at <a href="mailto:tscq@leeds.ac.uk" style="color: #1772d0;">tscq@leeds.ac.uk</a> or on WeChat at <span style="color: #1772d0;">jumponthemoon_</span>.
