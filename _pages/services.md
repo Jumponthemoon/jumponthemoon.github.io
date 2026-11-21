@@ -14,10 +14,6 @@
 
 *Journal*:
 - International Journal of Computer Vision (**IJCV**)
+- IEEE Transactions on Image Processing (**TIP**)
 - IEEE Transactions on Visualization and Computer Graphics (**TVCG**)
-
-**Tutor**
-
-_COMP3631_ **Intelligent Systems and Robotics**, University of Leeds
-
-_COMP2811_ **User Interface**, University of Leeds
+- IEEE Robotics and Automation Letters (**RA-L**)
