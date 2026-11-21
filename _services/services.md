@@ -18,7 +18,9 @@ title: Services
 
 *Journal*:
 - International Journal of Computer Vision (**IJCV**)
+- IEEE Transactions on Image Processing (**TIP**)
 - IEEE Transactions on Visualization and Computer Graphics (**TVCG**)
+- IEEE Robotics and Automation Letters (**RA-L**)
 
 **Organizer/Co-organizer**
 
@@ -27,9 +29,3 @@ The RoboWorld Challenge (**@NeurIPS 2026**)
 1st Workshop on Low-Level Vision Frontiers (**@CVPR 2026**)
 
 1st Workshop on Visual Intelligence for Built Environment Digital Twins (**@ECCV 2026**)
-
-**Tutor**
-
-_COMP3631_ **Intelligent Systems and Robotics**, University of Leeds
-
-_COMP2811_ **User Interface**, University of Leeds
