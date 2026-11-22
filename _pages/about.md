@@ -309,7 +309,7 @@ My works aim to bridge <strong style="color: #1772d0;">generative models</strong
       </div>
       <div class="aff">
         <img src="/assets/img/xpeng_logo.png">
-        <a href="https://www.xpeng.com/">XPENG Robotics</a>
+        <a href="https://www.xpeng.com/">XPENG Motors</a>
         <span class="role-sep">·</span>
         <span class="aff-role">Sr. Algorithm Engineer</span>
       </div>
