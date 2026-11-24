@@ -284,7 +284,7 @@ html[data-theme="dark"] .aff-role { color: #bbb; }
         <a href="https://www.photocrowd.com/photographer-community/293596/?page=images" title="Gallery"><i class="fas fa-camera"></i></a>
       </div>
     </div>
-    <p>I am pursuing a Ph.D. at <a href='https://uolds.leeds.ac.uk/'><u>Virtuocity</u></a>, and a visiting researcher at the <a href='https://www.cam.ac.uk/'><u>University of Cambridge</u></a>. I completed my master's degree at the <a href='https://www.sydney.edu.au/'><u>University of Sydney</u></a>.
+    <p>I am pursuing a Ph.D supervised by Prof.Gustav Markkula at <a href='https://uolds.leeds.ac.uk/'><u>Virtuocity</u></a>,  and a visiting researcher at the <a href='https://www.cam.ac.uk/'><u>University of Cambridge</u></a> with Dr.Olaf Wysocki. I completed my master's degree at the <a href='https://www.sydney.edu.au/'><u>University of Sydney</u></a>.
   </div>
 </div>
 
