@@ -284,7 +284,7 @@ html[data-theme="dark"] .aff-role { color: #bbb; }
         <a href="https://www.photocrowd.com/photographer-community/293596/?page=images" title="Gallery"><i class="fas fa-camera"></i></a>
       </div>
     </div>
-    <p>I am currently pursuing a Ph.D. at <a href='https://uolds.leeds.ac.uk/'><u>Virtuocity</u></a>, and a visiting researcher at the <a href='https://www.cam.ac.uk/'><u>University of Cambridge</u></a>. I completed my master's degree at the <a href='https://www.sydney.edu.au/'><u>University of Sydney</u></a> and had industrial experience working in the fields of <strong style="color: #1772d0;">robotics</strong> and <strong style="color: #1772d0;">autonomous driving</strong>.</p>
+    <p>I am pursuing a Ph.D. at <a href='https://uolds.leeds.ac.uk/'><u>Virtuocity</u></a>, and a visiting researcher at the <a href='https://www.cam.ac.uk/'><u>University of Cambridge</u></a>. I completed my master's degree at the <a href='https://www.sydney.edu.au/'><u>University of Sydney</u></a>.
   </div>
 </div>
 
